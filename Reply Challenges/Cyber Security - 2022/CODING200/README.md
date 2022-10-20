@@ -65,6 +65,8 @@ We encountered a few problems along the way but a few days later the challenge w
 
 P.S Even if A should have treated in the same way of B in this solution we didn't do it as A will never be a black hole as it moves only on tile/portals that are not going to be converted after the next step
 
+### byDenis
+
 The code can be optimized to stop looking for paths once reached a certain length based on the already valid solutions found, but it's a CTF so it's okay as it is.
 
 The code, on my computer, runs in ~60 seconds. It print out all the steps found and password the for the *flag.txt* file inside *flag.zip*
